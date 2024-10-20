@@ -1,3 +1,1 @@
-# AI_learns_air_hockey
-
-Developed with Unreal Engine 5
+Das Projekt in Unreal Engine, in dem ich mit Hilfe vom Learning Agents Plugin eine KI trainiert habe Air Hockey zu spielen.
